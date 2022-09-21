@@ -244,18 +244,6 @@ HOST,pgdt.ugdtimg.com, reject
 HOST,splashqqlive.gtimg.com, reject
 HOST,vv.video.qq.com, reject
 HOST,wa.gtimg.com, reject
-# HOST,wxsnsdy.wxs.qq.com, reject
-# HOST,wxsnsdythumb.wxs.qq.com, reject
-# > 腾讯音乐
-HOST,adserviceretry.kugou.com, reject
-HOST,ads.service.kugou.com, reject
-HOST,adsfile.bssdlbig.kugou.com, reject
-HOST,g.koowo.com, reject
-HOST,kgmobilestat.kugou.com, reject
-HOST,kgmobilestatbak.kugou.com, reject
-HOST,mobilelog.kugou.com, reject
-HOST,mobilead.kuwo.cn, reject
-HOST,rich.kuwo.cn, reject
 # > 淘宝
 HOST-SUFFIX,apoll.m.taobao.com, reject
 HOST-SUFFIX,h-adashx.ut.taobao.com, reject
