@@ -191,9 +191,6 @@ ctier=[A-Z] url 302 ctier=A
 ^https?:\/\/p\d{1}\.meituan\.net\/(adunion|display|linglong|mmc|wmbanner)\/ url reject
 # > 美团外卖
 ^https?:\/\/img\.meituan\.net\/bizad\/.*.jpg url reject-200
-# > 驾考宝典
-^https?:\/\/789\.kakamobi\.cn\/.+adver url reject-img
-^https?:\/\/smart\.789\.image\.mucang\.cn\/advert url reject-img
 # > 爱阅书香
 ^https?:\/\/icc\.one\/iFreeTime\/xid32uxaoecnfv2\/ url reject
 # 主机名
